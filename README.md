@@ -10,3 +10,5 @@ MapTix is an AI-powered smart wristband that eliminates the need for complex sma
  Instant Localization: Supports multiple global languages to display alerts and instructions in the pilgrim's native tongue.
  Haptic Alerts: Vibrates and changes color to instantly warn the user if they walk against the crowd's flow or the wrong way.
  Emergency Lost Mode: Allows vulnerable groups (children/elderly) to broadcast their precise location to organizers or family at the press of a button, supported by solar-powered backup.
+![image](https://github.com/user-attachments/assets/4a612315-5763-416f-bbdc-136558eba3d7)
+![image](https://github.com/user-attachments/assets/c9ea4c76-0408-4f39-95eb-052798aaee26)
