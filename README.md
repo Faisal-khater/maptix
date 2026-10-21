@@ -3,120 +3,121 @@ maptix
 <!-- Header Banner / Title -->
 
 
-<h1>✨ مـابـتـيـكـس | MAPTIX ✨</h1>
-<h3>«سِوارٌ ذكيّ لِخدمةِ وضيافةِ ضيفِ الرّحمن»</h3>
-<p><b>ابتكار استباقي يمنع ضياع الحجاج والمعتمرين ويحفظ سكينة العبادة في رحاب الحرمين الشريفين</b></p>
+<h1>✨ MAPTIX | مابتيكس ✨</h1>
+<h3>«A Smart Wristband Empowering Pilgrims & Keeping Families Connected»</h3>
+<p><b>A proactive, language-agnostic wearable designed to eliminate pilgrim separation and safeguard spiritual serenity in the Holy Mosques.</b></p>
 <!-- Top Badges -->
 <p>
-<a href="#-عن-المشروع"><img src="https://img.shields.io/badge/الإنجاز-تأهل_أفضل_30_مشروع-1B4D3E?style=for-the-badge&logo=starship&logoColor=gold" alt="Top 30"></a>
-<a href="#-تحدي-فكر-للحرمين"><img src="https://img.shields.io/badge/المبادرة-فكر_للحرمين-006C35?style=for-the-badge&logo=kaaba&logoColor=white" alt="Fikr Al Harmain"></a>
-<a href="#-الشراكة-والرعاية"><img src="https://img.shields.io/badge/تنظيم-مؤسسة_مسك_&_هيئة_الحرمين-1E293B?style=for-the-badge&logo=shield" alt="Misk & Harmain"></a>
+<a href="#-the-achievement"><img src="https://img.shields.io/badge/Milestone-Top_30_Finalist-1B4D3E?style=for-the-badge&logo=starship&logoColor=gold" alt="Top 30 Finalist"></a>
+<a href="#-the-initiative"><img src="https://img.shields.io/badge/Initiative-Fikr_Al_Harmain-006C35?style=for-the-badge&logo=kaaba&logoColor=white" alt="Fikr Al Harmain"></a>
+<a href="#-organizers"><img src="https://img.shields.io/badge/Organized_By-Misk_Foundation_&_Harmain_Authority-1E293B?style=for-the-badge&logo=shield" alt="Misk & Harmain Authority"></a>
 </p>
 <p>
-<img src="https://img.shields.io/badge/الفريق-Team_25-0F172A?style=flat-square&logo=github" alt="Team 25">
-<img src="https://img.shields.io/badge/المسار-تجربة_ضيف_الرحمن-2E7D32?style=flat-square" alt="Track">
-<img src="https://img.shields.io/badge/التحدي-03_الإرشاد_والتنقل-1565C0?style=flat-square" alt="Challenge">
-<img src="https://img.shields.io/badge/مراحل_الفرز-اجتياز_6_فروزات_تنافسية-D97706?style=flat-square" alt="6 Stages">
+<img src="https://img.shields.io/badge/Team-Team_25-0F172A?style=flat-square&logo=github" alt="Team 25">
+<img src="https://img.shields.io/badge/Track-Pilgrim_Experience-2E7D32?style=flat-square" alt="Track: Pilgrim Experience">
+<img src="https://img.shields.io/badge/Challenge-03_Wayfinding_&_Mobility-1565C0?style=flat-square" alt="Challenge 03">
+<img src="https://img.shields.io/badge/Selection-Cleared_6_Competitive_Phases-D97706?style=flat-square" alt="Cleared 6 Phases">
 </p>
-<!-- Quick Anchors -->
+<!-- Quick Navigation -->
 <p align="center">
-<a href="#-القصة-والفكرة"><b>قصة المشروع</b></a> •
-<a href="#-الدراسة-والبحث-الميداني"><b>البحث الميداني</b></a> •
-<a href="#-المميزات-والحل-التقني"><b>الحل التقني</b></a> •
-<a href="#-آلية-العمل"><b>آلية العمل</b></a> •
-<a href="#-أعضاء-الفريق"><b>الفريق المطور</b></a>
+<a href="#-the-achievement"><b>Achievement</b></a> •
+<a href="#-the-core-insight"><b>Core Insight</b></a> •
+<a href="#-field-research--data"><b>Field Research</b></a> •
+<a href="#-value-proposition"><b>Value Proposition</b></a> •
+<a href="#-system-architecture"><b>System Architecture</b></a> •
+<a href="#-meet-the-team"><b>The Team</b></a>
 </p>
 </div>
-🏆 الإنجاز التنافسي (#فكر_للحرمين)
-تم تطوير الفكرة بالشراكة الاستراتيجية بين:
-￼ 🏛️ الهيئة العامة للعناية بشؤون المسجد الحرام والمسجد النبوي
-￼ ⚡ مؤسسة محمد بن سلمان (Misk مسك - ديوان الابتكار)
-📖 القصة والفرضية (The Core Insight)
+🏆 The Achievement (#Fikr_AlHarmain)
+Developed through a strategic partnership between:
+￼ 🏛️ The General Authority for the Care of the Two Holy Mosques
+￼ ⚡ Mohammed bin Salman Foundation (Misk — Innovation Diwan)
+📖 The Core Insight (The Problem Reframed)
 <table align="center" width="100%">
 <tr>
 <td width="55%" valign="top">
-💡 نقطة التحول التي غيّرت فهمنا:
-في خضم الحشود، كان التصور المعتاد أن أزمة التائهين هي "جهل بالأبواب والاتجاهات"؛ ولكن عبر رصد الميدان، وجدنا أن المشكلة الحقيقية تكمن في لحظة الانفصال الصامتة التي لا يدركها القاصد ولا رفيقه إلا بعد فوات الأوان.
-￼ 🚶 رحلة الحاج: يخرج الحاج المسنّ بعد الصلاة من باب مختلف قليلاً عن مجموعته.
-￼ ⏳ اللحظة الحرجة: 30 ثانية من التشتت كفيلة بأن تبتلعه الحشود بعيداً.
-￼ 🛑 الأزمة: عائق اللغة، الإرهاق، عدم القدرة على وصف الموقع، والازدحام الذي يمنع تفحص الهواتف.
+💡 The Turning Point Discovery
+In massive crowd environments, conventional wisdom assumes that pilgrims get lost due to "spatial disorientation and door similarities." However, extensive field analysis revealed that the root crisis is the silent moment of separation—an instant neither the pilgrim nor their companion notices until it is already too late.
+￼ 🚶 The Journey: An elderly pilgrim exits after prayer through a slightly different gate than their group.
+￼ ⏳ The Critical Window: 30 seconds of distraction is enough for dense crowds to swallow them into the flow.
+￼ 🛑 The Crisis: Language barriers, heat, fatigue, inability to describe landmarks, and overcrowded spaces making smartphone checks impractical.
 </td>
 <td width="45%" valign="top" align="center">
 </td>
 </tr>
 </table>
-📊 ركائز البحث الميداني (Field Discovery)
-لم تبنَ الفكرة خلف المكاتب، بل انطلقت من أرض الواقع بجوار الكعبة المشرفة:
+📊 Field Research & Data (Discovery by the Numbers)
+Our solution was grounded in real-world observations right on the grounds of the Grand Mosque:
 <div align="center">
-🗣️ 86 مقابلة نوعية
-📋 55 استبياناً تحليلياً
-📚 5 تقارير عالمية ومحلية
-حجاج، معتمرون، مرافقو كبار سن، ومشرفو تفويج ميدانيون
-استجابات دقيقة لزوار الحرمين خلال آخر 3 مواسم
-هيئة الإحصاء، تقارير الحرمين، IDC، Deloitte، Statista
+🗣️ 86 In-Depth Interviews
+📋 55 Survey Responses
+📚 5 Authoritative Reports
+Pilgrims, elderly companions, and on-ground crowd operators
+Verified responses from visitors across the last 3 Hajj & Umrah seasons
+GASTAT, Harmain Authority, IDC, Deloitte, Statista
 
 </div>
-💎 مصفوفة القيمة: ما الذي يميّز Maptix؟
-معيار المقارنة
-الأنظمة الحالية ومراكز الإرشاد
-ابتكار سوار مابتيكس (Maptix)
-التوقيت
-علاجي: يبدأ البحث بعد الإبلاغ عن المفقود بساعات
-وقائي استباقي: يرصد الانفصال في أقل من 30 ثانية
-الحاجز اللغوي
-يحتاج لمترجمين والبحث عن لوحات الإرشاد
-عالمي (Sensory UX): نبضات واهتزازات ضوئية تفهم بالفطرة
-البيئة المزدحمة
-الهواتف تتعرض لانقطاع الشبكة أو صعوبة الحمل
-سوار معصم متين: تشغيل سلس لا يتطلب التوقف أو شاشات
-سكينة الحرم
-نداءات صوتية وأجراس قد تشوش على الخشوع
-نبضات لمسية خافتة (Haptic): احترام كامل لقدسية المكان
+💎 Value Proposition: What Sets Maptix Apart?
+Evaluation Dimension
+Legacy Systems & Information Desks
+Maptix Smart Wearable
+Response Window
+Reactive: Search operations begin hours after reporting.
+Proactive: Detects and flags separation in under 30 seconds.
+Language Barrier
+Relies on translators, signage, and verbal descriptions.
+Sensory UX: Color codes and haptic pulses understood instinctively.
+High-Density Mobility
+Phones suffer network drops or are hard to hold while walking.
+Always-On Wristband: Operates hands-free without slowing crowd flow.
+Sanctity & Serenity
+Loud ringtones or announcements can disrupt prayers.
+Discreet Haptic Feedback: Zero disturbance to worship.
 
-🛠️ البنية التقنية وهندسة النظام (Architecture)
-يتكامل سوار Maptix مع تطبيق المشرف/المرافق عبر بنية خفيفة وعالية الكفاءة:
-🔐 الخصوصية والأمان السيبراني:
-￼ تشفير كامل لاتصالات البلوتوث (Encrypted BLE Beacons): حماية هوية الحاج وتفاصيل حركته من التتبع غير المصرح به.
-￼ حفظ البيانات المحدود (Privacy by Design): لا يتم مشاركة أي بيانات حساسة؛ الأولوية لسلامة الحاج وربطه بمرافقه فقط.
-🎯 خطة الاختبار الميداني (Pilot Phase)
-￼ 📍 موقع التجربة: ساحة محددة ذات كثافة عالية داخل المسجد الحرام.
-￼ ⏱️ المدة: 3 أشهر تشغيلية متتابعة.
-￼ 🎯 مؤشر الأداء الرئيسي (KPI): رصد وتنبيه 90% من حالات الانفصال خلال زمن لا يتجاوز 30 ثانية.
-￼ 🤝 التكامل: الربط المباشر مع فرق الإرشاد الميداني التابعة لهيئة العناية بالحرمين الشريفين.
-👥 أصحاب الفكرة والفريق الهندسي (Team 25)
+🛠️ System Architecture
+Maptix pairs a lightweight wearable with a companion app through an ultra-low-power, highly resilient architecture:
+🔐 Cybersecurity & Privacy Engineering:
+￼ Encrypted BLE Broadcasts: Eliminates rogue tracking and protects the pilgrim's real-time identity and trajectory.
+￼ Privacy-by-Design Architecture: Zero collection of unneeded personal information; the focus stays strictly on safety and proximity pairing.
+🎯 Pilot Testing Framework
+￼ 📍 Deployment Location: A designated high-density courtyard within the Grand Mosque.
+￼ ⏱️ Duration: 3-month continuous field trial.
+￼ 🎯 Primary Success Metric (KPI): Detect and alert 90% of group separation events within under 30 seconds.
+￼ 🤝 Operational Integration: Direct integration with on-ground crowd management and Lost & Found guidance desks.
+👥 Meet the Team (Team 25)
 <table align="center" width="100%">
 <tr>
 <td align="center" width="25%">
-<b>فيصل آل خاطر</b>
+<b>Faisal Al-Khater</b>
 
-<sub>هندسة عامة</sub>
+<sub>General Engineering</sub>
 
-💻 <i>قيادة وتطوير البرمجيات وهندسة الفكرة</i>
+💻 <i>Software Development & Product Architecture</i>
 </td>
 <td align="center" width="25%">
-<b>منى المداني</b>
+<b>Muna Al-Madani</b>
 
-<sub>تقنية معلومات</sub>
+<sub>Information Technology</sub>
 
-⚙️ <i>العتاد وسلاسل الإمداد وتسعير المكونات</i>
+⚙️ <i>Hardware Components, Sourcing & Bill of Materials</i>
 </td>
 <td align="center" width="25%">
-<b>تغريد الخرش</b>
+<b>Taghreed Al-Kharsh</b>
 
-<sub>أمن سيبراني</sub>
+<sub>Cybersecurity</sub>
 
-🔒 <i>أمن البيانات والخصوصية وتشفير BLE</i>
+🔒 <i>Data Privacy, Security Architecture & BLE Encryption</i>
 </td>
 <td align="center" width="25%">
-<b>أثير العنزي</b>
+<b>Atheer Al-Enezi</b>
 
-<sub>أمن سيبراني</sub>
+<sub>Cybersecurity</sub>
 
-🧪 <i>إدارة البحث الميداني واختبار أمن التطبيق</i>
+🧪 <i>Field Research Lead & Application Security Testing</i>
 </td>
 </tr>
 </table>
 <div align="center">
-شكر وتقدير
-نرفع أسمى آيات الامتنان لـ الهيئة العامة للعناية بشؤون الحرمين ومؤسسة مسك على إتاحة هذه الفرصة العظيمة للمساهمة في خدمة ضيوف الرحمن وتقديم نموذج تقني يليق بقدسية المكان ومكانة المملكة الرائدة.
+Acknowledgements
+We extend our deepest gratitude to the General Authority for the Care of the Two Holy Mosques and Misk Foundation for providing this platform to innovate, serve the guests of the Most Merciful, and elevate technical excellence in the most sacred sanctuaries on Earth.
 </div>
